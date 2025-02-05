@@ -4,7 +4,7 @@
 
 ## Завдання 1. Створення класу з атрибутами
 
-1. **клонуйте** створений для вас репозиторій в Netbeans (детальна інструкція з картинками є [тут](https://netbeans.apache.org/tutorial/main/kb/docs/ide/git/)), **відкрийте** в [Repl.It](https://repl.it/) ([ось](https://docs.replit.com/replit-workspace/using-git-on-replit/running-github-repositories-replit)) покрокова інструкція з картинками) або **просто завантажте** його вміст у ZIP-форматі (скориставшись кнопкою "Code" > "Download ZIP") і відкрийте в IDE за вашим вибором
+1. **клонуйте** створений для вас репозиторій в Netbeans (детальна інструкція з картинками є [тут](https://netbeans.apache.org/tutorial/main/kb/docs/ide/git/)), **відкрийте** в [Repl.It](https://repl.it/) ([ось](https://docs.replit.com/replit-workspace/using-git-on-replit/running-github-repositories-replit)) покрокова інструкція з картинками), чи [GitHub CodeSpace](https://github.com/features/codespaces) (згадайте минулий семестр!), або **просто завантажте** його вміст у ZIP-форматі (скориставшись кнопкою "Code" > "Download ZIP") і відкрийте в IDE за вашим вибором
 2. створіть **в пакеті ````domain````** клас ```` Сustomer ```` з такими **приватними атрибутами**:
     * ````ID```` (номер клієнта, **ціле** число)
     * ````isNew```` (статус клієнта новий він чи старий, **булевське** значення)
